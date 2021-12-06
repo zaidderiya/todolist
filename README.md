@@ -1,7 +1,7 @@
 #TODO
 Name of project : TODO LIST
 
-Link of website : batool-todo.netlify.app
+Link of website : https://batool-todo.netlify.app/
 
 code link : https://github.com/batoolFatimaShaikh/todolist
 
