@@ -1,3 +1,10 @@
+#TODO
+Name of project : TODO LIST
+
+Link of website : batool-todo.netlify.app
+
+code link : https://github.com/batoolFatimaShaikh/todolist
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
