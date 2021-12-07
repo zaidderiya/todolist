@@ -8,7 +8,7 @@ import addDays from 'date-fns/addDays';
 import isToday from 'date-fns/isToday';
 
 
-const FORMAT = "dd / mm / yyyy";
+const FORMAT = "dd / MM / yyyy";
 function formatDate(date, format, locale) {
     return dateFnsFormat(date, format, { locale });
 }
